@@ -1,0 +1,662 @@
+name,pos,height,weight,school,city,state,rating,nat_rank,pos_rank,state_rank,year
+David Stewart,OT,79,315,Lawrence County,Moulton,AL,,,,,2000
+Damion Bivines,ATH,72,163,Pascagoula,Pascagoula,MS,,,,,2000
+Jason Clark,OLB,74,235,Starkville,Starkville,MS,,,,,2000
+J.J. Grant,SDE,75,230,Clinton,Clinton,MS,,,,,2000
+Antonio Hargro,WR,77,186,Gautier,Gautier,MS,,,,,2000
+Bryan Shumaker,CB,68,185,Ackerman,Ackerman,MS,,,,,2000
+Jonathan Bell,WR,61,175,Tupelo,Tupelo,MS,,,,,2000
+Jadice Moore,SDE,76,255,Port Gibson,Port Gibson,MS,,,,,2000
+Jerry Slaughter,SDE,75,245,Washington,Atlanta,GA,,,,,2000
+Marvin Vaughan,RB,61,180,Velma Jackson,Camden,MS,,,,,2000
+Jared Cook,ATH,61,175,Carver,Columbus,GA,,,,,2000
+Ronald Fields,SDE,75,293,Bogalusa,Bogalusa,LA,,,,,2000
+Chris Giancone,PRO,73,185,Westfield Senior,Westfield,NJ,,,,,2000
+Slovakia Griffin,CB,61,180,Magee,Magee,MS,,,,,2000
+Darrell Jones,FB,73,235,Greenwood,Greenwood,MS,,,,,2000
+John Martin,K,69,155,Tupelo,Tupelo,MS,,,,,2000
+Tarus Morgan,OLB,74,225,Brainerd,Chattanooga,TN,,,,,2000
+Fred Reid,RB,61,185,King,Tampa,FL,,,,,2000
+Will Rogers,SDE,74,215,Creekside,Fairburn,GA,,,,,2000
+McKinley Scott,WR,74,185,Rosa Fort,Tunica,MS,,,,,2000
+Robert Spivey,SDE,74,215,Clarksdale,Clarksdale,MS,,,,,2000
+Gabriel Wallace,S,73,185,Greenwood,Greenwood,MS,,,,,2000
+Dale Hall,CB,69,180,Garden City C.C.,Garden City,KS,,,,,2000
+Demotto Yougblood,SDE,77,265,Hargrave Military Academy,Chatham,VA,,,,,2000
+Clarence McDougal,S,73,200,Clinton,Clinton,MS,0.9635,119,3,2,2001
+Tommy Kelly,SDE,78,280,Middle Georgia State,Macon,GA,,,,,2001
+Lacorius Hodge,RB,73,235,Clinton,Clinton,MS,,,,,2001
+Chris McNeil,OG,76,280,Petal,Petal,MS,,,,,2001
+Rico Bennett,S,73,195,Brandon,Brandon,MS,,,,,2001
+Brandon Downing,OLB,74,225,Clarksdale,Clarksdale,MS,,,,,2001
+Avery House,OT,78,285,Springville Sch,Springville,AL,,,,,2001
+Johnny Wadley,OG,76,355,Hernando,Hernando,MS,,,,,2001
+Brad Weathers,OG,76,300,Amite County,Liberty,MS,,,,,2001
+Kyle York,PRO,73,190,Spring,Spring,TX,,,,,2001
+Michael Allen,OG,75,340,Northwest Mississippi C.C.,Senatobia,MS,,,,,2001
+Richard Ball,PRO,73,190,Fort Scott C.C.,Fort Scott,KS,,,,,2001
+Corey Brown,OLB,73,220,Butler C.C.,El Dorado,KS,,,,,2001
+Walter Burdett,S,73,215,Middle Georgia State,Macon,GA,,,,,2001
+Kamau Jackson,OLB,74,240,Copiah-Lincoln C.C.,Wesson,MS,,,,,2001
+Tim Love,DT,76,300,East Mississippi C.C.,Scooba,MS,,,,,2001
+Kahil Nash,WDE,76,260,Arizona Western College,Yuma,AZ,,,,,2001
+Korey Banks,CB,61,175,Garden City C.C.,Garden City,KS,,,,,2001
+Michael Oyefesobi,WDE,76,285,Arizona Western College,Yuma,AZ,,,,,2001
+Dannie Snyder,SDE,75,285,Arizona Western College,Yuma,AZ,,,,,2001
+Demetric Wright,CB,73,175,Northwest Mississippi C.C.,Senatobia,MS,,,,,2001
+Ronald Fields,DT,74,288,"Hargrave Military Academy (Chatham, VA)",Chatham,VA,,,,,2001
+Paul Broussard,SDE,76,310,Blinn College,Brenham,TX,,,,,2001
+Nick Turner,RB,61,195,Washington,Atlanta,GA,0.9343,105,12,4,2002
+Markell McKinley,SDE,75,267,Weir Attendance Center,Weir,MS,0.9,123,8,4,2002
+Keith Andrews,K,72,175,Ouachita Christian School,Monroe,LA,0.9,123,4,6,2002
+Odell Bradley,CB,61,185,Copiah-Lincoln C.C.,Wesson,MS,0.9,26,3,4,2002
+Manuel Dickson,OG,76,285,Georgia Military,Milledgeville,GA,0.8667,68,5,3,2002
+Scott Shurden,K,68,185,Neshoba Central,Philadelphia,MS,0.8333,385,10,11,2002
+Chris Swain,S,72,190,Jones College,Ellisville,MS,0.8333,103,7,16,2002
+Aries Nelson,DUAL,75,200,East Side,Cleveland,MS,0.8333,414,16,13,2002
+Kenneth Kern,ILB,73,225,Clarksdale,Clarksdale,MS,0.8333,414,22,13,2002
+Ken Topps,ATH,72,170,Shannon,Shannon,MS,0.8333,414,27,13,2002
+Richard Burch,OT,77,305,Brandon,Brandon,MS,0.8333,414,34,13,2002
+Brandon Wright,WR,61,170,East,Memphis,TN,0.8333,414,37,8,2002
+Justin Tyler,PRO,76,220,Jones County,Gray,GA,0.8,670,23,49,2002
+Tee Milons,WR,61,165,Starkville,Starkville,MS,0.8,670,68,18,2002
+Will Prosser,WR,76,205,Starkville Academy,Starkville,MS,0.8,670,68,18,2002
+Otis Riddley,DT,75,303,Provine,Jackson,MS,0.8,670,48,18,2002
+David Heard,CB,72,181,Vicksburg,Vicksburg,MS,0.7667,898,65,23,2002
+Roosevelt Tate,SDE,76,250,Hamilton,Memphis,TN,0.7667,898,55,13,2002
+Blake Pettit,TE,77,228,Olive Branch,Olive Branch,MS,0.7667,898,46,23,2002
+Brett Morgan,DUAL,72,185,Warren Central,Vicksburg,MS,0.7667,898,31,23,2002
+Corvelli Haynes,ILB,75,220,East Side,Cleveland,MS,0.7667,898,52,23,2002
+Willie Evans,DT,74,225,Wayne County,Waynesboro,MS,0.7667,898,64,23,2002
+Kevin Dockery,CB,69,185,Hernando,Hernando,MS,0.7667,898,65,23,2002
+Bryson Davis,FB,74,245,Plainview,Plainview,TX,0.7667,898,20,171,2002
+Monte Collins,OT,79,355,Provine,Jackson,MS,0.7667,898,80,23,2002
+James Cochran,OG,78,280,Memphis Central,Memphis,TN,0.7667,898,75,13,2002
+Jerious Norwood,RB,72,200,Brandon,Brandon,MS,0.9906,23,4,1,2002
+Darren Williams,S,75,205,Clarksdale,Clarksdale,MS,0.9892,26,2,2,2002
+Marvin Byrdsong,OLB,75,230,Longview,Longview,TX,0.9829,40,3,5,2002
+Donovan Davis,OT,79,330,Callaway,Jackson,MS,0.9629,72,3,3,2003
+Omarr Conner,DUAL,74,190,Noxubee County,Macon,MS,0.9,133,6,5,2003
+Devrick Hampton,SDE,75,275,Greenville Weston,Greenville,MS,0.8667,198,14,7,2003
+Adrian Griffin,CB,61,160,LaGrange,Lagrange,GA,0.8667,198,15,13,2003
+Eric Fuller,CB,74,195,Independence C.C.,Independence,KS,0.8667,29,7,8,2003
+David Price,OT,77,315,Mandarin,Jacksonville,FL,0.8333,309,22,41,2003
+Rickey Wright,CB,72,185,South Panola,Batesville,MS,0.8333,318,20,11,2003
+Jason Husband,WR,76,200,Jim Hill,Jackson,MS,0.8333,318,29,11,2003
+Jason Jude,FB,73,220,Athens,Athens,AL,0.8333,318,6,10,2003
+Corey Clark,DT,75,298,Collins,Collins,MS,0.8333,318,25,11,2003
+Joey Sanders,WR,74,200,Noxubee County,Macon,MS,0.8333,318,29,11,2003
+Dezmond Sherrod,TE,75,224,Caledonia,Caledonia,MS,0.8,682,44,20,2003
+Avery Hannibal,SDE,74,255,Troup County,Lagrange,GA,0.8,682,37,43,2003
+Michael Heard,OLB,76,220,Lovejoy,Hampton,GA,0.8,682,48,43,2003
+Brad Horton,OLB,74,230,Spencer,Columbus,GA,0.8,682,48,43,2003
+Jeramie Johnson,CB,72,180,Washington,Atlanta,GA,0.8,682,49,43,2003
+Phernando Hill,OG,75,295,Marathon,Marathon,FL,0.8,682,49,84,2003
+Tyler Threadgill,ATH,61,185,Philadelphia,Philadelphia,MS,0.8,682,38,20,2003
+Akeem Lofton,WR,61,175,Wayne County,Waynesboro,MS,0.8,682,70,20,2003
+Carlton Rice,OLB,73,215,J.O. Johnson,Huntsville,AL,0.8,682,48,24,2003
+Sandy Quinn,WDE,75,240,Provine,Jackson,MS,0.8,682,26,20,2003
+Andrew Powell,DT,74,300,Clewiston,Clewiston,FL,0.7667,1050,65,129,2003
+Lance Fremin,OG,74,270,Starkville,Starkville,MS,0.7667,1050,73,28,2003
+Eric Butler,TE,75,225,Moss Point,Moss Point,MS,0.7667,1050,61,28,2003
+Royce Blackledge,OT,76,275,Northeast Jones,Laurel,MS,0.7667,1050,85,28,2003
+Brian Anderson,OT,77,280,Patrician Academy,Butler,AL,0.7667,1050,85,34,2003
+Deljuan Robinson,SDE,76,288,Hernando,Hernando,MS,0.9934,14,1,1,2003
+Quinton Culberson,S,74,205,Provine,Jackson,MS,0.9791,44,4,2,2003
+Rory Johnson,OLB,74,215,Vicksburg,Vicksburg,MS,0.9,147,8,3,2004
+Jeremy Jones,TE,77,285,West Jefferson,Harvey,LA,0.8778,229,5,10,2004
+Corey Spells,CB,72,186,Mays,Atlanta,GA,0.8333,460,37,27,2004
+Gabe O'Neal,ATH,74,210,Columbus,Columbus,MS,0.8333,460,35,11,2004
+Damien Huren,OLB,73,215,Southwest Mississippi C.C.,Summit,MS,0.8333,44,3,7,2004
+Anthony Strauder,DT,76,285,Natchez,Natchez,MS,0.7889,831,62,15,2004
+Dio Herrera,OT,76,315,Hollywood Christian School,Hollywood,FL,0.7889,831,56,94,2004
+Kenny McClellan,ATH,61,175,Booker T. Washington,Tulsa,OK,0.7667,979,69,13,2004
+Mario Bobo,CB,73,175,South Panola,Batesville,MS,0.7667,979,74,16,2004
+Adam Carlson,K,76,175,Gulfport,Gulfport,MS,0.7667,979,17,16,2004
+De'Mon Glanton,CB,73,185,Mays,Atlanta,GA,0.7667,979,74,57,2004
+DeMarcus Johnson,RB,61,190,Banneker,Atlanta,GA,0.7667,979,64,57,2004
+Jonathan Lowe,ATH,68,170,Central,Phenix City,AL,0.7667,979,69,28,2004
+Linzy Patterson,TE,76,242,Amory,Amory,MS,0.7667,979,43,16,2004
+Brandon Thornton,RB,61,187,Homewood,Birmingham,AL,0.7667,979,64,28,2004
+Fred Akines,S,75,190,Clarksdale,Clarksdale,MS,0.7667,979,64,16,2004
+Robert Walker,TE,76,270,Southwest Mississippi C.C.,Summit,MS,0.7667,135,4,20,2004
+Michael Henig,PRO,73,170,Jefferson Davis,Montgomery,AL,0.7556,1761,63,58,2004
+Keon Humphries,WR,61,165,Lanier,Montgomery,AL,0.7444,1839,189,59,2004
+Jeffrey Farr,OG,76,305,Pell City,Pell City,AL,0.7444,1839,184,59,2004
+Roland Terry,OT,79,254,Lamar School,Meridian,MS,0.7444,1839,127,32,2004
+Titus Brown,ILB,76,210,Hillcrest,Tuscaloosa,AL,0.7444,1839,103,59,2004
+Anthony Littlejohn,OLB,74,200,Englewood,Jacksonville,FL,0.7222,1993,127,218,2004
+Louis Ellis,DT,75,293,Lanier,Jackson,MS,0.9222,123,12,4,2005
+Calvin Wilson,OT,77,336,Hattiesburg,Hattiesburg,MS,0.9222,123,13,4,2005
+Jamar Chaney,OLB,72,216,St. Lucie West Centennial,Port Saint Lucie,FL,0.8778,238,26,34,2005
+Keith Fitzhugh,CB,61,200,Lovejoy,Hampton,GA,0.8778,238,21,17,2005
+Tim Holloway,ATH,76,215,Seminary,Seminary,MS,0.8556,335,18,7,2005
+Archie Sims,OLB,72,200,West Jones,Laurel,MS,0.8333,493,43,8,2005
+Charles Burns,ILB,74,250,Hattiesburg,Hattiesburg,MS,0.8333,493,22,8,2005
+Jimmy Miller,ILB,73,222,Venice,Los Angeles,CA,0.8333,493,22,66,2005
+Antonio Johnson,DT,75,300,Mississippi Delta C.C.,Moorhead,MS,0.8333,49,8,6,2005
+Cory Gardhigh,WR,75,218,Cedartown,Cedartown,GA,0.8111,829,86,47,2005
+Johnny Carpenter,OG,75,280,Citronelle Sch,Citronelle,AL,0.8111,829,65,24,2005
+Ty Evans,PRO,75,202,Lexington,Lexington,TN,0.8111,829,31,14,2005
+Craig Jenkins,OG,76,352,Pearl,Pearl,MS,0.8111,829,65,10,2005
+Tray Rutland,DUAL,75,191,Tri-Cities,Atlanta,GA,0.8111,829,28,47,2005
+Chris Spencer,OG,76,300,Meridian,Meridian,MS,0.8111,829,65,10,2005
+Aubrey Bell,WR,75,204,Blount,Eight Mile,AL,0.8111,829,86,24,2005
+James Redmond,OT,78,320,Copiah-Lincoln C.C.,Wesson,MS,0.8,106,10,16,2005
+Brandon Whittie,ILB,75,225,Englewood,Jacksonville,FL,0.7667,1132,57,124,2005
+Michael Gates,OG,76,260,Sandy Creek,Tyrone,GA,0.7444,1532,136,86,2005
+Adron Chambers,WR,69,171,Pensacola,Pensacola,FL,0.7444,1532,169,170,2005
+Tay Bowser,WR,76,175,Gilmer,Gilmer,TX,0.7444,1532,169,250,2005
+Brandon Hart,FB,72,245,Troup County,Lagrange,GA,0.7222,1699,29,99,2005
+Anthony Dunning,OG,75,320,Coffeeville Sch,Coffeeville,AL,0.7222,1699,153,50,2005
+Blake McAdams,K,72,180,Ripley,Ripley,TN,0.7222,1699,29,38,2005
+Jessie Bowman,DT,73,305,Brookhaven,Brookhaven,MS,0.7222,1699,94,25,2005
+Jarvis Kyles,CB,72,173,Baldwin,Milledgeville,GA,,,,,2005
+Derek Pegues,CB,61,192,South Panola,Batesville,MS,0.9851,35,4,2,2005
+Anthony Summers,ATH,74,200,Olive Branch,Olive Branch,MS,0.8928,279,14,11,2006
+Alex Dekle,DT,73,262,Statesboro,Statesboro,GA,0.8667,457,40,27,2006
+Courtney Jones,RB,61,204,Pensacola,Pensacola,FL,0.8556,566,43,73,2006
+Jamon Hughes,ILB,73,221,Humphreys County,Belzoni,MS,0.8533,616,37,18,2006
+Rodney Prince,WDE,74,222,Shades Valley,Birmingham,AL,0.84,736,26,28,2006
+Tony Burks,WR,76,205,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8333,40,8,6,2006
+Ryan Mason,WR,77,215,Mississippi Delta C.C.,Moorhead,MS,0.8333,40,8,6,2006
+Anthony Johnson,ATH,61,195,Hargrave Military Academy,Chatham,VA,0.8333,18,1,14,2006
+J.D. Hamilton,OT,76,305,Copiah-Lincoln C.C.,Wesson,MS,0.8333,40,5,6,2006
+Marcus Washington,CB,61,175,Fort Bend Marshall,Missouri City,TX,0.82,992,72,167,2006
+Brandon Cooper,SDE,76,235,Fort Bend Marshall,Missouri City,TX,0.8078,1149,64,201,2006
+Chris Herrera,TE,76,275,Fort Bend Marshall,Missouri City,TX,0.8,1183,71,207,2006
+J.C. Brignone,DT,73,284,St Stanislaus,Bay Saint Louis,MS,0.7989,1199,89,29,2006
+Mark Melichar,OG,77,275,Westminster School At Oak Mountain,Birmingham,AL,0.7678,1368,115,57,2006
+Kyle Love,OG,74,315,North Clayton,Atlanta,GA,0.7667,1370,116,78,2006
+Brandon Henderson,TE,74,220,Fayette County,Fayetteville,GA,0.7444,1633,98,89,2006
+Aaron Feld,WDE,73,218,Homewood,Birmingham,AL,0.7444,1633,73,63,2006
+Arnil Stallworth,RB,69,190,Daphne,Daphne,AL,0.7444,1633,95,63,2006
+Boobie Dixon,RB,73,229,Terry,Terry,MS,,,,,2006
+Alex Carpenter,WR,72,168,Biggersville,Corinth,MS,,,,,2006
+Keith Mills,WR,75,195,Alexandria,Alexandria,LA,,,,,2006
+Timmy Bailey,ILB,75,237,Mississippi Delta C.C.,Moorhead,MS,,,,,2006
+Chasman Davis,OLB,72,210,St. Lucie West Centennial,Port Saint Lucie,FL,0.9286,160,7,27,2006
+Reggie Odom,DT,72,290,Deland,Deland,FL,0.9041,234,20,36,2006
+Robert Elliott,RB,74,210,Okolona,Okolona,MS,0.9255,160,21,4,2007
+Co-Eric Riley,WR,74,205,Mississippi Gulf Coast C.C.,Perkinston,MS,0.9111,14,4,5,2007
+Derek Sherrod,OT,78,298,Caledonia,Caledonia,MS,0.9044,191,14,5,2007
+Jazzmen Guy,SDE,77,265,Hazlehurst,Hazlehurst,MS,0.89,272,19,7,2007
+Antonio White,ILB,74,240,Simmons,Hollandale,MS,0.8722,425,17,11,2007
+Mike Hunt,S,75,204,Franklin,Meadville,MS,0.8578,557,43,12,2007
+Antwon Dixon,S,73,200,Terry,Terry,MS,0.8578,557,43,12,2007
+Josh Riddell,PRO,74,200,Foothill College,Los Altos,CA,0.8556,57,3,24,2007
+Marcus Green,TE,73,240,Kemper County,De Kalb,MS,0.8533,657,41,14,2007
+D.J. Looney,OG,74,275,Westminster School At Oak Mountain,Birmingham,AL,0.8533,657,49,20,2007
+Wade Bonner,S,61,195,Fayette Ware,Somerville,TN,0.8467,720,48,23,2007
+Colton Jenkins,OT,78,280,Winona,Winona,MS,0.8467,720,63,16,2007
+Wesley Carroll,PRO,74,190,St. Thomas Aquinas,Fort Lauderdale,FL,0.84,816,35,96,2007
+LaMarcus Williams,DT,73,280,Bastrop,Bastrop,LA,0.84,816,60,29,2007
+Karlin Brown,OLB,61,190,Lincoln,Tallahassee,FL,0.8356,865,53,102,2007
+Maurice Crutison,OLB,74,210,Port Gibson,Port Gibson,MS,0.8356,865,53,20,2007
+Jimmie Holmes,WDE,75,227,Mississippi Delta C.C.,Moorhead,MS,0.8333,75,3,12,2007
+K.J. Wright,OLB,75,210,Olive Branch,Olive Branch,MS,0.8333,879,56,21,2007
+Jamie Jones,ILB,72,240,Springdale,Springdale,AR,0.8278,1048,51,20,2007
+Quentin Saulsberry,OG,75,270,Coldwater,Coldwater,MS,0.8274,1050,89,25,2007
+Jesse Bowman,DT,73,335,Copiah-Lincoln C.C.,Wesson,MS,0.8259,108,10,15,2007
+Jasper O'Quinn,CB,61,185,Copiah-Lincoln C.C.,Wesson,MS,0.8222,109,13,16,2007
+Zach Smith,S,72,164,Susan Moore Sch,Blountsville,AL,0.82,1117,81,30,2007
+Addison Lawrence,OT,76,300,Magnolia Heights School,Senatobia,MS,0.8189,1121,96,26,2007
+Dominic Douglas,OLB,74,225,Hinds C.C.,Raymond,MS,0.8111,121,8,20,2007
+Chris Relf,DUAL,75,206,Carver,Montgomery,AL,0.8089,1288,32,34,2007
+Dakota Merritt,OT,77,290,West Florida Tech,Pensacola,FL,0.8089,1288,111,152,2007
+Chris Nance,CB,61,185,Northeast Mississippi C.C.,Booneville,MS,0.8,143,19,24,2007
+Eric Richards,K,76,220,Warren Central,Vicksburg,MS,0.7933,1372,24,30,2007
+O'Neal Wilder,WR,77,200,Leake Central,Carthage,MS,0.7889,1390,149,31,2007
+Ethan Stockett,FB,73,252,Southside,Fort Smith,AR,0.7867,1492,19,25,2007
+Terrell Johnson,OLB,74,200,Southern Choctaw,Gilbertown,AL,0.7222,1913,143,55,2007
+Marvin Bure,CB,69,190,Vicksburg,Vicksburg,MS,,,,,2007
+Quinton Saulsberry,OC,74,300,Independence,Horn Lake,MS,,,,,2007
+Damein Anderson,CB,61,195,Hazlehurst,Hazlehurst,MS,,,,,2007
+Charles Mitchell,S,61,205,Clarksdale,Clarksdale,MS,0.9349,138,11,4,2008
+Templeton Hardy,OG,76,305,North Panola,Sardis,MS,0.9,289,12,5,2008
+Montario Patterson,RB,72,197,Biggersville,Corinth,MS,0.8678,595,54,11,2008
+Phillip Freeman,OT,78,290,Copiah-Lincoln C.C.,Wesson,MS,0.8667,47,3,9,2008
+Josh Jackson,DT,76,273,Canton,Canton,MS,0.8637,649,48,12,2008
+Bo Walters,ILB,74,220,Briarwood Christian,Birmingham,AL,0.86,678,34,30,2008
+Terrance Davis,ATH,61,180,Salem,Conyers,GA,0.8456,877,60,60,2008
+John Paul Alford,OG,75,275,Kosciusko,Kosciusko,MS,0.8456,877,65,18,2008
+Rashun Dixon,S,72,185,Terry,Terry,MS,0.84,938,77,20,2008
+Delmon Robinson,ATH,61,181,Vicksburg,Vicksburg,MS,0.8389,951,65,21,2008
+Nelson Hurst,TE,75,229,Plainfield,Plainfield,IN,0.8348,1004,48,11,2008
+Charles Bailey,WR,75,175,Bartram Trail,Jacksonville,FL,0.8244,1154,135,134,2008
+Kirkland Gainous,WDE,74,225,Lincoln,Tallahassee,FL,0.8211,1187,39,140,2008
+Nick Bell,OLB,76,225,Jess Lanier,Hueytown,AL,0.8133,1237,89,45,2008
+Antonio Hoskins,OLB,74,212,Water Valley,Water Valley,MS,0.7944,1416,103,26,2008
+Kendrick Cook,TE,73,255,Etowah,Attalla,AL,,,,,2008
+Shane McCardell,WDE,77,265,West Brook,Beaumont,TX,,,,,2008
+Sean Ferguson,SDE,75,255,Norland,Miami,FL,,,,,2008
+Tobias Smith,OG,75,305,Columbus,Columbus,MS,,,,,2008
+Devin Jones,SDE,72,260,DeSoto Central,Southaven,MS,,,,,2008
+Trevor Stigers,SDE,77,245,Ridgeland,Ridgeland,MS,,,,,2008
+Corey Broomfield,CB,61,180,Bayside,Palm Bay,FL,,,,,2008
+Louis Watson,S,61,185,St. Paul's Episcopal,Mobile,AL,,,,,2008
+Arceto Clark,WR,61,180,Shannon,Shannon,MS,,,,,2008
+Chad Bumphis,WR,61,200,Tupelo,Tupelo,MS,0.9391,132,18,2,2009
+Fletcher Cox,DT,76,240,Yazoo City,Yazoo City,MS,0.9293,152,11,3,2009
+Josh Boyd,DT,75,295,Philadelphia,Philadelphia,MS,0.9247,172,15,4,2009
+Pernell McPhee,SDE,76,270,Itawamba C.C.,Fulton,MS,0.9222,6,2,1,2009
+Montrell Conner,RB,74,215,Ouachita Parish,Monroe,LA,0.919,193,21,8,2009
+Tyler Russell,PRO,76,200,Meridian,Meridian,MS,0.9145,217,13,6,2009
+Chris Smith,WR,73,191,Meridian,Meridian,MS,0.8992,289,37,9,2009
+Dennis Thames,ATH,61,185,Louisville,Louisville,MS,0.8933,335,15,10,2009
+Brandon Heavens,WR,61,175,Jess Lanier,Hueytown,AL,0.8889,377,49,13,2009
+Chris White,ILB,76,238,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8889,26,3,4,2009
+Ricco Sanders,WR,61,180,Byrnes,Duncan,SC,0.8889,377,49,14,2009
+Cameron Lawrence,OLB,74,230,Magnolia Heights School,Senatobia,MS,0.8856,409,29,11,2009
+Johnthan Banks,S,75,180,East Webster,Maben,MS,0.8778,522,38,16,2009
+LaDarius Perkins,RB,69,180,Greenville Weston,Greenville,MS,0.8711,600,54,18,2009
+Maurice Langston,CB,61,195,East Central C.C.,Decatur,MS,0.8667,35,4,7,2009
+Mardrecas Hood,ATH,75,180,Pickens County,Reform,AL,0.8644,720,44,22,2009
+Sam Watts,OG,77,300,Salem,Conyers,GA,0.8611,771,56,60,2009
+William Shumpert,FB,72,238,Itawamba Agricultural,Fulton,MS,0.8578,834,13,21,2009
+Deontae Skinner,OLB,74,230,Noxubee County,Macon,MS,0.8578,834,72,21,2009
+Nickoe Whitley,S,73,190,Provine,Jackson,MS,0.8544,946,55,23,2009
+Gabe Jackson,OG,76,320,Amite County,Liberty,MS,0.8467,1073,77,29,2009
+Leon Berry,WR,73,185,East Mississippi C.C.,Scooba,MS,0.8444,56,10,10,2009
+Gabriel Jackson,OT,76,310,Amite County,Liberty,MS,0.8422,1180,94,32,2009
+Sean Brauchle,K,69,180,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8333,77,1,15,2009
+Heath Hutchins,K,75,215,Itawamba C.C.,Fulton,MS,0.8333,77,1,15,2009
+Billy Hamilton,WR,73,170,Taylorsville,Taylorsville,MS,0.8322,1321,149,37,2009
+Darius Slay,WR,73,180,Brunswick,Brunswick,GA,0.82,1439,160,101,2009
+Johnathan McKenzie,SDE,77,240,Starkville Academy,Starkville,MS,0.7989,1678,91,41,2009
+Adrian Marcus,FB,61,235,Thompson,Alabaster,AL,,,,,2009
+Brandon Wilson,ILB,73,240,Northridge,Tuscaloosa,AL,,,,,2009
+Derek DePasquale,K,68,180,The Woodlands,The Woodlands,TX,,,,,2009
+Baker Swedenburg,P,72,185,Heritage Academy,Columbus,MS,,,,,2009
+Damien Robinson,OT,78,330,Olive Branch,Olive Branch,MS,0.9486,111,13,2,2010
+Kaleb Eulls,WDE,76,255,Yazoo County,Yazoo City,MS,0.9073,263,17,6,2010
+Michael Carr,ATH,73,192,West Point,West Point,MS,0.905,274,38,7,2010
+Matthew Wells,ATH,72,190,Lawrence County,Monticello,MS,0.8965,341,24,9,2010
+Robert Johnson,WR,72,196,Oak Grove,Hattiesburg,MS,0.8933,358,49,10,2010
+Curtis Virges,DT,75,290,West Point,West Point,MS,0.8822,451,41,12,2010
+James Carmon,DT,79,370,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8778,19,3,5,2010
+Ferlando Bohanna,ILB,72,232,Whitehaven,Memphis,TN,0.8756,558,23,8,2010
+Nick Griffin,RB,61,193,Perry Central,New Augusta,MS,0.8756,558,49,17,2010
+Jay Hughes,ATH,61,175,Oak Grove,Hattiesburg,MS,0.8744,592,39,18,2010
+Chris Hughes,S,72,215,WP Davidson,Mobile,AL,0.8744,592,47,18,2010
+Archie Muniz,OT,77,255,Cy Creek,Houston,TX,0.8711,639,47,104,2010
+Malcolm Johnson,WR,73,200,Northridge,Tuscaloosa,AL,0.8711,639,85,21,2010
+Jamerson Love,CB,61,175,Aberdeen,Aberdeen,MS,0.8578,954,75,22,2010
+Vick Ballard,RB,61,210,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8556,37,1,9,2010
+Brandon Hill,ATH,74,208,West Lowndes,Columbus,MS,0.8556,1047,71,23,2010
+Jameon Lewis,WR,69,175,Tylertown,Tylertown,MS,0.85,1185,154,26,2010
+Eric Lawson,OT,78,320,Olive Branch,Olive Branch,MS,0.8467,1271,89,27,2010
+Corvell Harrison-Gay,SDE,75,220,Northeast Jones,Laurel,MS,0.8333,1492,74,30,2010
+Jeff Howie,OG,76,330,Itawamba C.C.,Fulton,MS,0.8333,70,2,15,2010
+Christian Holmes,OLB,74,235,Puckett Attendance Center,Pulaski,MS,0.8111,1810,133,33,2010
+Dillon Day,OG,76,295,West Monroe,West Monroe,LA,0.8111,1810,111,54,2010
+Blaine Clausell,OT,79,295,Baker,Mobile,AL,0.8111,1810,129,57,2010
+Dylan Favre,DUAL,61,180,St Stanislaus,Bay Saint Louis,MS,0.8033,1989,70,34,2010
+Jeremy Lee,ATH,61,170,Hinds County Agricultural Sch,Utica,MS,0.7667,2186,132,36,2010
+Asian Ruff,S,74,180,Itawamba Agricultural,Fulton,MS,,,,,2010
+Paul Crawford,WDE,80,235,Hebron,Carrollton,TX,,,,,2010
+Ben Beckwith,OG,75,305,Benton Academy,Benton,MS,,,,,2010
+Jeff Howie,OG,76,330,Downingtown West,Downingtown,PA,0.8333,1492,88,39,2010
+Dee Arrington,S,73,200,Stone,Wiggins,MS,0.9251,166,9,5,2011
+Joe Morrow,WR,76,205,Ocean Springs,Ocean Springs,MS,0.8764,390,51,11,2011
+P.J. Jones,SDE,74,275,Tupelo,Tupelo,MS,0.8667,493,36,13,2011
+James Maiden,OT,76,270,Wilkinson County,Woodville,MS,0.8617,573,44,14,2011
+Dak Prescott,DUAL,75,220,Haughton,Haughton,LA,0.8597,611,20,22,2011
+Zachary Jackson,ATH,73,203,Heidelberg,Heidelberg,MS,0.8467,834,49,21,2011
+Josh Robinson,RB,69,205,Franklinton,Franklinton,LA,0.8367,1018,59,30,2011
+Rufus Warren,TE,77,250,Gentry,Indianola,MS,0.8317,1120,52,24,2011
+Benardrick McKinney,ATH,75,210,Rosa Fort,Tunica,MS,0.8233,1217,77,26,2011
+Daniel Knox,OT,77,255,West Lauderdale,Collinsville,MS,0.8217,1235,108,27,2011
+Derrick Milton,RB,61,200,Hargrave Military Academy,Chatham,VA,0.82,1257,77,53,2011
+Darius Slay,S,73,188,Itawamba C.C.,Fulton,MS,0.82,70,6,8,2011
+Kendrick Market,S,61,185,South Panola,Batesville,MS,0.8183,1280,94,28,2011
+Nick Redmond,OT,77,310,Harrison Central,Gulfport,MS,0.8117,1362,117,30,2011
+Taveze Calhoun,ATH,72,170,Morton,Morton,MS,0.8083,1405,92,31,2011
+John Harris,SDE,77,255,Boynton Beach Community,Boynton Beach,FL,0.8067,1427,92,192,2011
+Justin Malone,OT,78,315,Ridgeland,Ridgeland,MS,0.8033,1476,127,32,2011
+Preston Smith,WDE,77,215,Stephenson,Stone Mountain,GA,0.7783,1707,80,118,2011
+Joey Trapp,OT,75,300,Los Angeles Harbor College,Wilmington,CA,0.77,123,8,45,2011
+Dewayne Cherrington,DT,75,325,Holmes C.C.,Goodman,MS,,,,,2011
+Devin Fosselman,WR,61,190,Wilkinson County,Woodville,MS,0.8617,573,74,14,2011
+Justin Cox,S,73,190,West Point,West Point,MS,0.8567,660,45,17,2011
+Shaquille Perry,OLB,74,220,Walnut Attendance Center,Walnut,MS,0.7983,1516,124,33,2011
+DeVante Scott,ATH,61,175,Ferriday,Ferriday,LA,0.8467,834,49,27,2011
+Denico Autry,WDE,77,255,East Mississippi C.C.,Scooba,MS,0.9637,2,1,1,2012
+Quay Evans,DT,75,305,Morton,Morton,MS,0.9482,121,12,3,2012
+Nick James,DT,77,335,Long Beach,Long Beach,MS,0.9275,180,17,4,2012
+Beniquez Brown,RB,73,215,Florence,Florence,AL,0.9154,239,25,11,2012
+Will Redmond,ATH,72,180,East,Memphis,TN,0.9018,302,21,6,2012
+A.J. Jefferson,SDE,74,254,North Pike,Summit,MS,0.8908,372,21,7,2012
+Richie Brown,ILB,74,230,Long Beach,Long Beach,MS,0.8893,382,18,8,2012
+Xavier Grindle,RB,61,190,East Marion,Columbia,MS,0.8754,555,31,10,2012
+Devon Desper,OC,76,300,Madison Central,Madison,MS,0.8719,595,11,11,2012
+Quadry Antoine,S,61,205,Belle Chasse,Belle Chasse,LA,0.8697,634,38,26,2012
+Nelson Adams,SDE,76,290,Brandon,Brandon,MS,0.8588,769,42,13,2012
+Cedric Jiles,CB,61,170,Clinton,Clinton,MS,0.8586,771,53,14,2012
+Brandon Holloway,ATH,61,160,Alonso,Tampa,FL,0.8522,859,61,103,2012
+Ryan Brown,SDE,76,240,Archbishop Shaw,Marrero,LA,0.8514,868,46,33,2012
+Deontay Evans,WR,61,190,McComb,McComb,MS,0.8497,903,105,17,2012
+Jordan Washington,DT,74,265,North Gwinnett,Suwanee,GA,0.8456,970,67,82,2012
+Fred Brown,WR,74,176,Jim Hill,Jackson,MS,0.8433,1008,117,20,2012
+Torrey Dale,WDE,76,248,John Curtis,New Orleans,LA,0.84,1082,53,37,2012
+Charles Siddoway,OT,79,295,Butte College,Oroville,CA,0.8363,69,12,21,2012
+Cole Carter,OT,77,290,Caledonia,Caledonia,MS,0.8344,1169,106,24,2012
+Devon Bell,K,74,180,Warren Central,Vicksburg,MS,0.8244,1319,2,26,2012
+Gus Walley,TE,76,220,Greene County,Leakesville,MS,0.8175,1439,67,27,2012
+Justin Senior,OT,78,305,Hargrave Military Academy,Chatham,VA,0.813,19,4,14,2012
+Dylan Holley,OC,75,300,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8067,123,2,19,2012
+Adarrius Perkins,APB,74,220,Forrest County Agricultural,Brooklyn,MS,0.8506,884,103,16,2012
+Kivon Coman,ATH,73,185,Florence,Florence,AL,0.8358,1146,84,37,2012
+Artimas Samuel,WR,74,250,Carver,Columbus,GA,0.8203,1385,172,110,2012
+Nick Schuessler,PRO,76,190,Grayson,Loganville,GA,0.8119,1545,68,120,2012
+Chris Jones,SDE,77,250,Houston,Houston,MS,0.9919,18,2,1,2013
+Ashton Shumpert,S,74,212,Tupelo,Tupelo,MS,0.923,183,16,4,2013
+Fred Ross,WR,74,185,John Tyler,Tyler,TX,0.9216,196,25,27,2013
+Justin Cox,S,74,185,East Mississippi C.C.,Scooba,MS,0.8956,18,1,9,2013
+Jake Thomas,OT,77,300,Columbus,Columbus,MS,0.8861,360,29,6,2013
+Jahmere Irvin-Sills,CB,61,172,Eastern Christian,Elkton,MD,0.8639,597,38,14,2013
+B.J. Hammond,WR,76,210,Gadsden City,Gadsden,AL,0.8631,615,85,20,2013
+Shelby Christy,WR,75,190,Dutchtown,Geismar,LA,0.8597,678,89,29,2013
+Brandon Wells,WR,74,175,Bogue Chitto School,Bogue Chitto,MS,0.8572,717,47,8,2013
+Gabe Myles,CB,72,183,Starkville,Starkville,MS,0.8556,750,59,9,2013
+Jeremey Chappelle,WR,74,212,Tyler J.C.,Tyler,TX,0.8489,101,15,6,2013
+Kent Flowers,OT,76,295,Simmons,Hollandale,MS,0.8458,919,72,13,2013
+De'Runnya Wilson,WR,76,212,Wenonah Sch,Birmingham,AL,0.8456,927,124,29,2013
+Jamaal Clayborn,OG,75,315,Jackson Academy,Jackson,MS,0.8369,1097,66,17,2013
+Dez Harris,ATH,75,220,McAdory,McCalla,AL,0.8336,1145,85,32,2013
+Kivon Coman,S,73,200,Hargrave Military Academy,Chatham,VA,0.8317,26,1,20,2013
+Tolando Cleveland,CB,72,170,Hillgrove,Powder Springs,GA,0.8297,1243,95,113,2013
+Trent Simpson,TE,76,255,Oxford,Oxford,AL,0.8294,1249,58,37,2013
+Damian Williams,DUAL,73,215,Archbishop Rummel,Metairie,LA,0.8239,1366,33,46,2013
+Artimas Samuel,TE,74,240,Hargrave Military Academy,Chatham,VA,0.7917,43,3,28,2013
+Cord Sandberg,DUAL,74,200,Manatee,Bradenton,FL,0.9113,235,9,34,2013
+Donald Gray,ATH,69,180,White Station,Memphis,TN,0.8724,478,26,11,2013
+Jamoral Graham,ATH,61,180,Newton County,Decatur,MS,0.9167,214,17,6,2014
+Aeris Williams,RB,73,205,West Point,West Point,MS,0.9047,255,16,7,2014
+Gerri Green,ATH,77,230,Greenville Weston,Greenville,MS,0.9011,274,25,8,2014
+Jesse Jackson,WR,74,195,Petal,Petal,MS,0.8889,353,48,10,2014
+Brandon Bryant,S,72,203,Rosa Fort,Tunica,MS,0.8669,549,47,14,2014
+Cory Thomas,SDE,77,281,McAdory,McCalla,AL,0.8661,556,24,16,2014
+Will Coleman,WDE,77,248,Tyler J.C.,Tyler,TX,0.8639,62,2,5,2014
+Darrion Hutcherson,TE,79,260,Copiah-Lincoln C.C.,Wesson,MS,0.8622,70,2,17,2014
+J.T. Gray,ATH,72,197,Clarksdale,Clarksdale,MS,0.8619,620,50,15,2014
+Jocquell Johnson,OT,78,307,Copiah-Lincoln C.C.,Wesson,MS,0.8528,100,15,20,2014
+Grant Harris,WDE,76,270,Clinton,Clinton,MS,0.8483,894,42,24,2014
+Elijah Staley,DUAL,78,240,Wheeler,Marietta,GA,0.8417,1030,29,90,2014
+Chris Rayford,CB,73,200,Byhalia,Byhalia,MS,0.8411,1049,80,28,2014
+Dontavian Lee,RB,73,210,Forrest County Agricultural,Brooklyn,MS,0.8386,1101,66,32,2014
+Logan Cooke,P,77,200,Columbia Academy,Columbia,MS,0.8278,1304,3,38,2014
+Nick Fitzgerald,PRO,77,220,Richmond Hill,Richmond Hill,GA,0.8133,1596,41,138,2014
+Elgton Jenkins,OT,76,275,Clarksdale,Clarksdale,MS,0.8093,1681,140,41,2014
+Braxton Hoyett,DT,75,285,Pelham,Pelham,AL,0.7985,1872,110,60,2014
+Deion Calhoun,OG,75,310,Restoration Academy,Fairfield,AL,0.7959,1918,101,61,2014
+Ronald Cochran,OT,77,275,Olive Branch,Olive Branch,MS,0.7619,2977,230,60,2014
+Ravian Pierce,TE,76,215,Plantation,Fort Lauderdale,FL,0.8898,345,15,46,2014
+Deshon Cooper,OLB,75,240,Columbia,Decatur,GA,0.8567,733,59,64,2014
+Jordan Harris,OT,77,292,Stephenson,Stone Mountain,GA,0.8556,751,42,67,2014
+Lashard Durr,CB,61,180,Harrison Central,Gulfport,MS,0.8528,803,58,21,2014
+Jamal Peters,S,73,206,Bassfield,Bassfield,MS,0.9726,58,3,2,2015
+Leo Lewis,OLB,75,225,Brookhaven,Brookhaven,MS,0.9684,64,1,3,2015
+Fletcher Adams,DT,75,260,Brandon,Brandon,MS,0.9269,169,12,4,2015
+Donald Gray,WR,69,185,Copiah-Lincoln C.C.,Wesson,MS,0.9164,7,1,2,2015
+Martinas Rankin,OT,77,300,Mississippi Gulf Coast C.C.,Perkinston,MS,0.9158,9,1,4,2015
+Malik Dear,WR,69,226,Murrah,Jackson,MS,0.9135,218,13,5,2015
+Nick Gibson,RB,61,197,Pinson Valley,Pinson,AL,0.8945,324,28,12,2015
+Tim Washington,SDE,75,200,Yazoo City,Yazoo City,MS,0.8872,369,29,9,2015
+Darryl Williams,OG,76,304,Bessemer City,Bessemer,AL,0.8799,426,8,15,2015
+Traver Jung,OLB,76,215,Holmes C.C.,Goodman,MS,0.8794,29,2,11,2015
+Deddrick Thomas,WR,69,170,Memphis Central,Memphis,TN,0.8736,494,36,14,2015
+Chris Stamps,CB,73,170,Warren Central,Vicksburg,MS,0.8698,539,52,11,2015
+Johnathan Calvin,SDE,76,250,Copiah-Lincoln C.C.,Wesson,MS,0.8686,50,5,20,2015
+Maurice Smitherman,CB,69,178,Minor,Adamsville,AL,0.8669,571,56,19,2015
+Keith Joseph,WDE,75,240,Pascagoula,Pascagoula,MS,0.8661,588,25,13,2015
+Mark McLaurin,S,75,200,Collins,Collins,MS,0.8625,654,44,18,2015
+Kendell Jones,SDE,76,255,Clay-Chalkville,Pinson,AL,0.8625,654,36,24,2015
+Keith Mixon,APB,68,176,Shades Valley,Birmingham,AL,0.8619,664,12,25,2015
+Alec Murphy,RB,73,222,Nixa,Nixa,MO,0.8611,688,54,8,2015
+Justin Johnson,WR,76,205,Hoover,Hoover,AL,0.8578,764,87,29,2015
+Harrison Moon,OT,77,280,Signal Mountain,Signal Mountain,TN,0.8564,795,85,22,2015
+Nick Tiano,PRO,77,230,Baylor School,Chattanooga,TN,0.8553,825,32,25,2015
+Jonnas Spivey,DUAL,72,180,Bay Springs,Bay Springs,MS,0.8517,905,73,22,2015
+Anfernee Mullins,WDE,76,245,Aliceville,Aliceville,AL,0.845,1075,49,35,2015
+Farrod Green,WR,76,223,Wesson Attendance Center,Wesson,MS,0.8369,1276,152,32,2015
+Michael Story,OT,76,290,Ripley,Ripley,MS,0.8344,1344,144,33,2015
+Dontea Jones,WR,76,250,Louisville,Louisville,MS,0.8669,571,68,12,2015
+Jeffery Simmons,SDE,75,277,Noxubee County,Macon,MS,0.9875,18,2,1,2016
+Marquiss Spencer,SDE,77,243,Greenwood,Greenwood,MS,0.9076,261,20,9,2016
+Kobe Jones,OG,76,265,Starkville,Starkville,MS,0.9056,275,28,10,2016
+Jamal Couch,OLB,77,217,Central,Phenix City,AL,0.8894,350,16,11,2016
+Stewart Reese,OG,77,340,Fort Pierce Central,Fort Pierce,FL,0.8825,397,19,52,2016
+Erroll Thompson,ILB,74,235,Florence,Florence,AL,0.8807,417,15,13,2016
+C.J. Morgan,CB,61,187,Parkway,Bossier City,LA,0.8753,465,45,25,2016
+Korey Charles,ATH,61,173,North Florida Christian,Tallahassee,FL,0.8728,489,26,67,2016
+Dontea Jones,TE,76,260,Queen City Collegiate Prep,Matthews,NC,0.8669,2,1,1,2016
+Lashard Durr,CB,61,190,Copiah-Lincoln C.C.,Wesson,MS,0.8656,59,7,11,2016
+Jordan Thomas,TE,78,275,East Central C.C.,Decatur,MS,0.8656,59,1,11,2016
+Christian Roberson,TE,78,230,McEachern,Powder Springs,GA,0.8589,695,39,64,2016
+Tre Brown,DT,76,290,Copiah-Lincoln C.C.,Wesson,MS,0.8572,82,12,17,2016
+Greg Eiland,OT,79,320,Philadelphia,Philadelphia,MS,0.8558,754,66,22,2016
+Cameron Dantzler,WR,74,170,St. Thomas Aquinas,Hammond,LA,0.8556,763,53,40,2016
+Dareuan Parker,OT,77,320,DeSoto Central,Southaven,MS,0.8442,1017,86,27,2016
+John Michael Hankerson,S,73,170,Washington,South Bend,IN,0.8422,1071,68,15,2016
+Reggie Todd,WR,77,192,Blount,Eight Mile,AL,0.8383,1156,167,40,2016
+Osirus Mitchell,WR,77,200,Booker,Sarasota,FL,0.8367,1191,173,163,2016
+Nero Nelson,ATH,72,170,Simmons,Hollandale,MS,0.8753,465,24,13,2016
+Willie Gay Jr.,OLB,73,223,Starkville,Starkville,MS,0.967,70,3,2,2017
+Keytaon Thompson,DUAL,76,225,Landry-Walker,New Orleans,LA,0.9289,169,5,7,2017
+Kylin Hill,RB,61,210,Columbus,Columbus,MS,0.9216,203,14,5,2017
+Chauncey Rivers,WDE,74,258,East Mississippi C.C.,Scooba,MS,0.8997,12,1,4,2017
+Johnathan Abram,S,73,200,Jones College,Ellisville,MS,0.8931,16,2,6,2017
+Deion Pope,DT,76,280,Copiah-Lincoln C.C.,Wesson,MS,0.8817,22,1,8,2017
+Lee Autry,DT,75,310,Itawamba C.C.,Fulton,MS,0.8794,27,2,11,2017
+Tommy Champion,OT,77,320,Copiah-Lincoln C.C.,Wesson,MS,0.8719,37,5,13,2017
+Brian Cole,S,74,200,East Mississippi C.C.,Scooba,MS,0.8697,45,4,16,2017
+Tyler Dunning,ILB,72,245,St. Thomas Aquinas,Fort Lauderdale,FL,0.8692,532,32,70,2017
+Montez Sweat,WDE,78,250,Copiah-Lincoln C.C.,Wesson,MS,0.865,52,6,18,2017
+Aaron Odom,WDE,75,250,Callaway,Jackson,MS,0.8647,590,39,10,2017
+Austin Williams,WR,75,202,Ocean Springs,Ocean Springs,MS,0.8558,755,108,15,2017
+Tyler Williams,CB,75,175,Lafayette,Oxford,MS,0.8542,796,80,16,2017
+Tyre Phillips,OG,78,335,East Mississippi C.C.,Scooba,MS,0.8517,84,2,29,2017
+Landon Guidry,CB,73,185,Independence,Thompson's Station,TN,0.85,904,67,27,2017
+Jaquarius Landrews,S,74,210,Copiah-Lincoln C.C.,Wesson,MS,0.8475,99,7,32,2017
+Cordavien Suggs,OT,78,300,Duncan U. Fletcher,Neptune Beach,FL,0.8442,1051,96,149,2017
+James Jackson,DT,75,345,Pascagoula,Pascagoula,MS,0.8428,1096,70,25,2017
+Tucker Day,P,74,195,Brentwood,Brentwood,TN,0.7936,2285,10,61,2017
+Powers Warren,TE,75,221,Minnetonka Senior,Minnetonka,MN,0.76,3897,173,38,2017
+Noah Elliss,DT,76,330,Valor Christian,Littleton,CO,0.8925,335,21,6,2017
+Josh Cooper,OT,79,355,Haughton,Haughton,LA,0.8492,930,46,38,2017
+Montravious Richardson,OT,79,320,Westover,Albany,GA,0.8244,1540,141,162,2017
+Jaquavious Collins,DT,76,288,Jackson,Jackson,GA,0.8133,1795,101,188,2017
+Devonta Jason,WR,74,211,Landry-Walker,New Orleans,LA,0.9297,177,32,5,2018
+Kwatrivous Johnson,OT,79,338,Greenwood,Greenwood,MS,0.9009,294,18,2,2018
+Jaden Crumedy,WDE,77,240,Oak Grove,Hattiesburg,MS,0.8944,342,20,4,2018
+Stephen Guidry,WR,76,190,Hinds C.C.,Raymond,MS,0.894,16,1,5,2018
+Jalen Mayden,DUAL,74,215,Sachse,Sachse,TX,0.8917,361,16,49,2018
+Marcus Murphy,S,73,190,West Point,West Point,MS,0.8881,396,25,5,2018
+Fabien Lovett Sr.,SDE,75,285,Olive Branch,Olive Branch,MS,0.8842,436,18,7,2018
+Aaron Brule,OLB,73,220,Archbishop Rummel,Metairie,LA,0.8816,465,32,17,2018
+Geor'quarius Spivey,TE,78,220,Richwood,Monroe,LA,0.8775,518,22,19,2018
+Nathaniel Watson,OLB,75,200,Maplesville,Maplesville,AL,0.8681,664,52,19,2018
+Esaias Furdge,CB,72,185,Clarksdale,Clarksdale,MS,0.8668,697,61,14,2018
+Jaylon Reed,CB,73,170,Olive Branch,Olive Branch,MS,0.8547,948,84,19,2018
+Shawn Preston,S,72,191,St. James,Saint James,LA,0.854,955,75,40,2018
+Jett Johnson,ILB,75,215,Tupelo,Tupelo,MS,0.8518,1032,37,20,2018
+Devon Robinson,DT,78,260,Whitehaven,Memphis,TN,0.8431,1257,87,38,2018
+Kameron Jones,OT,77,280,Starkville,Starkville,MS,0.8416,1307,120,24,2018
+Cameron Young,DT,76,300,Franklin,Meadville,MS,0.8355,1467,105,25,2018
+Brad Cumbest,TE,77,237,East Central,Kiln,MS,0.8343,1478,63,26,2018
+Cameron Gardner,TE,76,215,Starkville,Starkville,MS,0.8338,1487,214,27,2018
+Sh'mar Kilby-Lane,ILB,73,225,Copiah-Lincoln C.C.,Wesson,MS,,,,,2018
+Malik Heath,WR,75,205,Callaway,Jackson,MS,0.9311,172,31,1,2018
+Johnquarise Patterson,WR,73,170,Pearl,Pearl,MS,0.8693,646,100,12,2018
+Laâ€™Damian Webb,RB,68,190,Beauregard,Opelika,AL,0.8572,890,45,32,2018
+Charles Cross,OT,77,270,Laurel,Laurel,MS,0.9877,27,5,2,2019
+Nathan Pickering,DT,75,305,Seminary,Seminary,MS,0.9675,73,6,5,2019
+De'Monte Russell,WDE,76,216,Provine,Jackson,MS,0.9254,183,10,11,2019
+Jarrian Jones,S,73,185,Northwest Rankin,Flowood,MS,0.9147,220,18,13,2019
+Garrett Shrader,DUAL,76,215,Charlotte Christian,Charlotte,NC,0.9106,249,7,10,2019
+Brandon Cunningham,OT,77,325,St. Martin,Ocean Springs,MS,0.8926,393,32,17,2019
+Ani Izuchukwu,WDE,76,230,Davidson Academy,Nashville,TN,0.8906,415,28,14,2019
+Fred Peters,S,61,200,Jones College,Ellisville,MS,0.89,19,2,2,2019
+LaQuinston Sharp,OG,75,285,East Mississippi C.C.,Scooba,MS,0.8837,27,2,3,2019
+JaVonta Payton,WR,74,182,Northwest Mississippi C.C.,Senatobia,MS,0.883,28,3,4,2019
+Collin Duncan,CB,72,190,St James School,Montgomery,AL,0.8826,533,53,18,2019
+Kareem Walker,RB,73,220,Fort Scott C.C.,Fort Scott,KS,0.8789,32,3,10,2019
+Quinton Torbor,WR,74,190,Destrehan,Destrehan,LA,0.8752,635,79,22,2019
+J.P. Purvis,S,74,195,Pelahatchie Attendance Center,Pelahatchie,MS,0.8726,689,52,23,2019
+Nick Pendley,OG,77,290,Creekview,Canton,GA,0.8715,719,42,72,2019
+Lee Witherspoon,ATH,61,180,North Jackson,Stevenson,AL,0.8707,730,42,27,2019
+Kyziah Pruitt,WR,61,185,Noxubee County,Macon,MS,0.8707,730,95,24,2019
+Jack Harris,WDE,74,227,Oak Grove HS,Hattiesburg,MS,0.8652,837,56,27,2019
+Martin Emerson Jr.,CB,74,185,Pine Forest,Pensacola,FL,0.8652,837,66,110,2019
+Dylan Lawrence,ATH,76,193,George County,Lucedale,MS,0.8367,1536,129,43,2019
+Brevyn Jones,OT,76,261,Huffman,Birmingham,AL,0.8356,1581,137,61,2019
+Malik Sanders,CB,61,175,Northwest Mississippi C.C.,Senatobia,MS,0.8206,208,25,38,2019
+Woody Marks,RB,61,190,Carver,Atlanta,GA,0.9369,138,16,19,2020
+Emmanuel Forbes,WR,73,171,Grenada,Grenada,MS,0.9245,187,13,2,2020
+Jordan Davis,WDE,77,249,Copiah-Lincoln C.C.,Wesson,MS,0.9078,5,1,1,2020
+Lideatrick Griffin,WR,61,170,Philadelphia,Philadelphia,MS,0.9064,271,9,5,2020
+Malik Heath,WR,75,210,Copiah-Lincoln C.C.,Wesson,MS,0.8956,8,2,2,2020
+Dillon Johnson,RB,72,192,St Joseph,Greenville,MS,0.887,430,20,10,2020
+Janari Dean,S,72,190,South Panola,Batesville,MS,0.8848,461,39,11,2020
+Jevon Banks,OLB,74,260,Olive Branch,Olive Branch,MS,0.8793,533,25,15,2020
+Rodney Groce Jr.,OLB,73,240,Pleasant Grove,Pleasant Grove,AL,0.8781,554,28,23,2020
+Jaden Walley,DUAL,73,175,D'Iberville,Biloxi,MS,0.8774,568,29,17,2020
+Tyrus Wheat,ILB,74,245,Copiah-Lincoln C.C.,Wesson,MS,0.8759,33,1,5,2020
+Javorrius Selmon,CB,61,170,Provine,Jackson,MS,0.8752,600,33,18,2020
+Will Rogers,PRO,74,200,Brandon,Brandon,MS,0.8726,636,24,19,2020
+Decamerion Richardson,ATH,74,176,Bossier,Bossier City,LA,0.8711,668,50,28,2020
+Armondous Cooley,DT,76,300,Wayne County,Waynesboro,MS,0.8696,693,59,21,2020
+Caleb Ducking,WR,77,195,Holmes C.C.,Goodman,MS,0.8663,56,8,8,2020
+Jamari Stewart,WDE,75,205,St. Lucie West Centennial,Port Saint Lucie,FL,0.8656,801,38,107,2020
+Cameron Threatt,CB,61,165,Lewisburg,Olive Branch,MS,0.8652,804,63,25,2020
+Tre Lawson,SDE,78,240,Mississippi Gulf Coast C.C.,Perkinston,MS,0.863,60,7,11,2020
+Calvin McMillian,OT,77,305,Houston,Houston,MS,0.8619,890,68,26,2020
+Grant Jackson,OT,78,304,West Lincoln School,Brookhaven,MS,0.8619,890,68,26,2020
+Rufus Harvey,WR,61,167,Starkville,Starkville,MS,0.8456,1356,200,33,2020
+Kyle Cass,CB,74,194,Mississippi Delta C.C.,Moorhead,MS,0.8315,166,26,31,2020
+Reed Buys,OT,77,290,Jones College,Ellisville,MS,,,,,2020
+Sawyer Robertson,QB,75,200,Coronado,Lubbock,TX,0.9392,134,16,21,2021
+John Lewis,LB,76,225,Germantown,Madison,MS,0.914,237,26,5,2021
+Teddy Knox,WR,61,167,The Woodlands,The Woodlands,TX,0.9079,267,40,43,2021
+Antonio Harmon,WR,76,205,Kosciusko,Kosciusko,MS,0.9014,301,47,6,2021
+Ke'Travion Hargrove,RB,61,185,Ruston,Ruston,LA,0.9001,310,20,10,2021
+Deonte Anderson,Edge,75,225,Fort Meade,Fort Meade,FL,0.8872,435,30,65,2021
+Jacobi Moore,WR,74,200,Harrison Central,Gulfport,MS,0.8763,559,87,9,2021
+Simeon Price,RB,72,204,West Florida Tech,Pensacola,FL,0.8763,559,36,79,2021
+Rara Thomas,WR,73,185,Eufaula,Eufaula,AL,0.8663,756,116,32,2021
+DeShawn Page,ILB,74,225,East Mississippi C.C.,Scooba,MS,0.8648,23,6,9,2021
+Canon Boone,OT,76,280,Dickinson,Dickinson,TX,0.8589,937,83,135,2021
+Ty Cooper,Edge,76,245,Louisville,Louisville,MS,0.8533,1099,65,17,2021
+Timar Rogers,LB,74,200,Deland,Deland,FL,0.8522,1123,120,141,2021
+Nic Mitchell,LB,74,215,Mandarin,Jacksonville,FL,0.8522,1123,120,141,2021
+Corey Ellington,S,75,190,Holmes County,Lexington,MS,0.8519,1142,100,19,2021
+Albert Reese,OT,79,295,Clearwater Academy International,Clearwater,FL,0.8507,1183,101,154,2021
+Gabe Cavazos,OT,77,292,Lake Cormorant,Lake Cormorant,MS,0.8478,1250,107,22,2021
+Daniel Greek,PRO,76,230,Liberty Christian,Argyle,TX,0.8467,1284,82,194,2021
+Jay Hampton,CB,74,180,Amory,Amory,MS,0.8417,1418,125,26,2021
+Tre'von Marshall,Edge,76,240,Locust Grove,Locust Grove,GA,0.84,1471,80,137,2021
+Carson Williams,OT,76,290,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8374,51,8,14,2021
+Nick Jones,OT,76,285,East Mississippi C.C.,Scooba,MS,0.8363,52,9,15,2021
+William Hardrick,CB,73,165,Minor,Adamsville,AL,0.7833,2624,229,114,2021
+Trevion Williams,DL,76,277,Crystal Springs,Crystal Springs,MS,0.9274,187,25,5,2022
+Mojo Dortch,ATH,72,175,George County,Lucedale,MS,0.9141,229,33,6,2022
+Jacarius Clayton,TE,78,275,Tupelo,Tupelo,MS,0.8961,367,46,10,2022
+Braedyn Locke,QB,73,195,Rockwall,Rockwall,TX,0.8935,383,22,54,2022
+Zavion Thomas,WR,61,190,John Ehret,Marrero,LA,0.8926,391,59,17,2022
+Percy Lewis,OT,80,360,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8926,5,3,1,2022
+Javae Gilmore,LB,76,200,Amite,Amite,LA,0.8889,435,40,20,2022
+Khalid Moore,WR,74,206,Poplarville,Poplarville,MS,0.8867,458,43,13,2022
+Lucas Taylor,OT,77,310,St. Paul's Episcopal,Mobile,AL,0.8859,464,18,20,2022
+Donterry Russell,Edge,76,200,Provine,Jackson,MS,0.8804,562,43,14,2022
+Kaydin Pope,WR,72,175,Hardin County,Savannah,TN,0.8793,578,83,19,2022
+DeCarlos Nicholson,CB,75,200,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8752,13,4,4,2022
+Trent Singleton,S,72,190,Raymond,Raymond,MS,0.8696,776,50,20,2022
+Jarnorris Hopson,WR,61,175,Horn Lake,Horn Lake,MS,0.8685,796,120,21,2022
+Wesley Miller,S,61,184,Heritage Academy,Columbus,MS,0.8685,796,66,21,2022
+Avery Sledge,Edge,75,210,Forrest County Agricultural,Brooklyn,MS,0.8656,870,79,24,2022
+Audavion Collins,CB,72,165,Newton,Covington,GA,0.8633,923,82,96,2022
+Kalvin Dinkins,DL,74,315,Lake High School,Lake,MS,0.8633,923,125,25,2022
+Jakson LaHue,OT,77,285,Azle,Azle,TX,0.8596,1012,90,146,2022
+Jackson Cannon,OT,77,310,Ola,McDonough,GA,0.8533,1161,111,118,2022
+Dakota Jordan,ATH,72,220,Jackson Academy,Jackson,MS,0.873,709,47,18,2022
+Isaac Smith,WR,72,200,Itawamba Agricultural,Fulton,MS,0.9399,138,10,4,2023
+Creed Whittemore,ATH,61,175,Buchholz,Gainesville,FL,0.8994,339,18,63,2023
+Kelley Jones,CB,76,178,Clarksdale,Clarksdale,MS,0.8967,373,36,7,2023
+Chris Parson,QB,72,200,Ravenwood,Brentwood,TN,0.8935,404,28,8,2023
+Brice Pollock,S,73,175,Shiloh,Snellville,GA,0.8886,469,48,48,2023
+Ty Jones,RB,73,223,Bay Springs,Bay Springs,MS,0.8878,483,41,8,2023
+Jonathan Davis,DL,77,305,Lawrence County,Monticello,MS,0.8844,533,58,9,2023
+Zay Alexander,OT,79,315,Tupelo,Tupelo,MS,0.8828,558,37,10,2023
+Caleb Bryant,DL,75,250,Vicksburg,Vicksburg,MS,0.8819,573,62,11,2023
+Amari Smith,IOL,79,295,Brookhaven,Brookhaven,MS,0.8817,578,50,12,2023
+Justin Brown,WR,72,183,Blackman,Murfreesboro,TN,0.8811,586,84,17,2023
+Leon Bell,OT,80,330,Kilgore College,Kilgore,TX,0.8797,15,4,2,2023
+Tabias Hinton,LB,75,215,Hattiesburg,Hattiesburg,MS,0.8792,624,54,14,2023
+Seth Davis,RB,67,170,Katy,Katy,TX,0.8786,633,44,94,2023
+Joseph Head,Edge,76,218,Holmes County,Lexington,MS,0.8786,633,60,15,2023
+Luke Evans,CB,73,165,Chaminade-Madonna,Hollywood,FL,0.8786,633,64,102,2023
+Jaylen Aborom,CB,74,180,Oak Grove HS,Hattiesburg,MS,0.8739,752,76,17,2023
+Gabe Moore,DL,76,250,Louisville,Louisville,MS,0.8697,851,92,20,2023
+Nakai Poole,WR,75,205,Norcross,Norcross,GA,0.8689,861,122,85,2023
+Malik Ellis,OT,77,245,Laurel,Laurel,MS,0.8686,872,66,22,2023
+Eric Taylor,Edge,76,295,Southwest Mississippi C.C.,Summit,MS,0.8675,45,7,8,2023
+Jacoby Bellazar,WR,61,175,Southwest Mississippi C.C.,Summit,MS,0.8664,49,6,10,2023
+Jeffery Pittman,RB,61,200,Hinds C.C.,Raymond,MS,0.8642,54,1,12,2023
+Zakari Tillman,LB,74,230,Florence,Florence,MS,0.8539,1297,112,27,2023
+Will James,CB,72,180,Theodore,Theodore,AL,0.8437,1596,134,61,2023
+Jayden Hobson,OT,77,293,Hillcrest,Tuscaloosa,AL,0.8403,1678,132,67,2023
+Keelan Crimmins,P,75,200,Australia,Australia,AUST,,,,,2023
+JJ Harrell,WR,72,187,North Panola,Sardis,MS,0.9181,217,36,6,2024
+Braylon Burnside,ATH,61,195,Starkville,Starkville,MS,0.9177,223,8,8,2024
+Michael Van Buren Jr.,QB,61,185,St. Frances Academy,Baltimore,MD,0.9148,239,15,8,2024
+Mario Craver,WR,61,165,Clay-Chalkville,Pinson,AL,0.9056,309,49,18,2024
+Jimothy Lewis Jr.,OT,76,313,IMG Academy,Bradenton,FL,0.8975,386,33,53,2024
+Xavier Gayten,RB,72,190,Brookhaven,Brookhaven,MS,0.8904,476,34,14,2024
+Terrance Hibbler,DL,75,285,Holmes County Central,Lexington,MS,0.89,479,56,15,2024
+JaCorey Whitted,TE,77,253,McAdory,McCalla,AL,0.8853,547,32,30,2024
+Josaiah Knight,Edge,75,230,Gadsden County,Havana,FL,0.8833,599,40,79,2024
+Tyler Woodard,S,74,195,East Mississippi C.C.,Scooba,MS,0.8756,26,3,8,2024
+Sanfrisco Magee,WR,74,198,McComb,McComb,MS,0.8739,796,108,22,2024
+Fred Clark,LB,74,230,Winona,Winona,MS,0.8731,821,71,23,2024
+Branden Jennings,LB,75,225,Hinds C.C.,Raymond,MS,0.8731,27,2,9,2024
+Johnnie Daniels,RB,61,200,Copiah-Lincoln C.C.,Wesson,MS,0.8714,29,1,10,2024
+TJ Lockhart,OT,78,365,Winona,Winona,MS,0.8706,894,64,24,2024
+Jatavious Johnson,S,74,180,Hooks,Hooks,TX,0.8633,1115,96,162,2024
+Ashun Shepphard,DL,75,275,East Mississippi C.C.,Scooba,MS,0.8633,43,13,16,2024
+Ricky Johnson,WR,73,170,Houston County,Warner Robins,GA,0.8625,1142,152,129,2024
+Elijah Cannon,CB,73,168,Coconut Creek,Pompano Beach,FL,0.8611,1186,109,156,2024
+Luke Work,OT,78,285,Lausanne Collegiate School,Memphis,TN,0.8572,1326,105,43,2024
+Kai McClendon,DL,74,295,Gulfport,Gulfport,MS,0.8567,1336,139,31,2024
+Cyrus Reyes,S,73,190,Taylor,Katy,TX,0.8383,1891,185,277,2024
+Marcus Ross,LB,75,215,East Mississippi C.C.,Scooba,MS,,,,,2024
+Brylan Lanier,CB,73,170,East Mississippi C.C.,Scooba,MS,,,,,2024
+Corey Clark,DL,76,310,Northeast Mississippi C.C.,Booneville,MS,,,,,2024
+Matt Mayfield,WR,74,185,Opelousas,Opelousas,LA,0.8728,836,113,26,2024
+KaMario Taylor,QB,75,205,Noxubee County,Macon,MS,0.9444,118,11,4,2025
+Tyler Lockhart,LB,75,200,Winona,Winona,MS,0.9364,147,15,5,2025
+Tyshun Willis,Edge,73,230,Velma Jackson,Camden,MS,0.917,231,24,9,2025
+Kyle Johnson,CB,61,165,Bunkie,Bunkie,LA,0.8977,370,36,13,2025
+Tony Mitchell,S,74,205,East Mississippi C.C.,Scooba,MS,0.8861,6,1,4,2025
+Geron Johnson,RB,61,185,Bartlett,Bartlett,TN,0.885,546,45,17,2025
+Gracen Harris,WR,61,170,Ennis,Ennis,TX,0.8803,631,94,84,2025
+Davian Jackson,WR,73,185,Westgate,New Iberia,LA,0.8756,751,44,27,2025
+Anson Lewis,WR,72,195,Oak Grove,Hattiesburg,MS,0.8736,818,121,18,2025
+Matthew Lefeau,IOL,77,350,Shasta College,Redding,CA,0.8711,15,1,3,2025
+Saquon Miles,OT,78,300,Hinds C.C.,Raymond,MS,0.8708,19,2,8,2025
+Ja'Bryis Stewart,S,75,200,Mississippi Delta C.C.,Moorhead,MS,0.8703,22,3,11,2025
+Jakheem Shumpert,OT,77,325,Northwest Mississippi C.C.,Senatobia,MS,0.8697,24,3,13,2025
+Sekou Smith Jr.,S,72,160,Miami Central,Miami,FL,0.8694,954,83,119,2025
+AJ Rice,LB,73,240,Madison Academy,Madison,AL,0.8689,966,107,36,2025
+Spencer Dowland,OT,78,290,Athens,Athens,AL,0.8689,966,70,36,2025
+Joeseph Skipworth,TE,77,220,Pace,Milton,FL,0.8681,1003,50,129,2025
+LaKendrick James,LB,74,217,Copiah-Lincoln C.C.,Wesson,MS,0.8664,29,2,15,2025
+Amarien Jefferson,CB,73,180,East Central C.C.,Decatur,MS,0.865,32,3,17,2025
+Jamarcus Moye,DL,76,320,Tyler J.C.,Tyler,TX,0.8647,34,10,5,2025
+Isaiah Mitchell,WR,61,175,Houston County,Warner Robins,GA,0.8647,1112,71,130,2025
+Lo'Kavion Jackson,S,74,195,Mosley,Lynn Haven,FL,0.8617,1256,108,161,2025
+Emeka Iloh,TE,81,250,Coahoma C.C.,Clarksdale,MS,0.86,40,2,20,2025
+Mason Clinton,DL,77,290,East Mississippi C.C.,Scooba,MS,0.8592,43,13,21,2025
+Kolin Wilson,RB,69,180,Gulf Shores,Gulf Shores,AL,0.8567,1441,112,50,2025
+Breyden Turnage,OT,80,285,Dyersburg,Dyersburg,TN,0.8537,1556,115,39,2025
+Montrell Chapman,LB,74,230,Mississippi Gulf Coast C.C.,Perkinston,MS,0.8483,66,5,29,2025
